@@ -181,16 +181,5 @@ public class Tokenize {
 		}
 		
 		
-		public static void main(String[] args) {
-			try{
-				Tokenize tokenizer = new Tokenize("/Users/junhanliu/Desktop/Trec_microblog11.txt", "/Users/junhanliu/Desktop/doc2/" );
-				tokenizer.tokenize();
-			}catch(Exception e) {
-				e.printStackTrace();
-			}
-			
-			
-		}
-		
 		
 }//end class

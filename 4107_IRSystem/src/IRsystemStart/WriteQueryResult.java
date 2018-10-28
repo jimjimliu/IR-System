@@ -17,15 +17,6 @@ public class WriteQueryResult {
 		this.file_path = file;
 	}
 	
-	/*
-	 * process the input query
-	 * 
-	 */
-//	private List<String> getQueryResult(String query){
-//		
-//		List<String> result = this.indexer.processQuery(query);
-//		return result;
-//	}
 	
 	/*
 	 * process each query, format of each line in this.queries is: "queryID, query";

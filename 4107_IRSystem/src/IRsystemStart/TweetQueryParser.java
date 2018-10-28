@@ -87,14 +87,4 @@ public class TweetQueryParser {
 	        return result;
 	  }
 	
-	public static void main(String[] args) {
-		TweetQueryParser parser = new TweetQueryParser("/Users/junhanliu/Desktop/topics_MB1-49.txt");
-		try{
-			for(Query query: parser.parseTestQueries()) {
-				System.out.println(query.getID()+", "+query.getQuery());
-			}
-		}catch(Exception e) {
-			e.printStackTrace();
-		}
-	}
 }
