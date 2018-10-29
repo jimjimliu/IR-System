@@ -8,8 +8,10 @@ Implemented a Java program to search keywords in over 50,000 (ID, message) pairs
  
 >The program is going to process original messages, built index, process 49 test queries, write into result.txt.
 
->Then it continues to a UI search test. Enter any query message you please, it returns the top 10 matching files. Like the image shows.
-<img width="530" height="230" src="https://github.com/jimjimliu/4107-Information-Retrieval-System/blob/master/image/cmd2.jpg">
+>Then it continues to a UI search test. Enter any query message you please.
+<img width="430" height="180" src="https://github.com/jimjimliu/4107-Information-Retrieval-System/blob/master/image/cmd2.jpg">
+>returns the top 10 matching files. Like the image shows.
+
 <img width="530" height="260" src="https://github.com/jimjimliu/4107-Information-Retrieval-System/blob/master/image/search_result.jpg">
 
 # Demo
