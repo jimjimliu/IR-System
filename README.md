@@ -1,6 +1,6 @@
 # 4107 Information Retrieval System
 
-Implemented a Java program to search keywords in over 50,000 (ID, message) pairs, and to return ranked relevant searching results based on the level of relevance. Provided a score ranked searching result;
+Implemented a Java program to search keywords in over 50,000 (ID, message) pairs, test 49 queries, and to return ranked relevant searching results of each based on the level of relevance. Provided a score ranked searching result;
 # To Run
 >run in eclipse java
 
