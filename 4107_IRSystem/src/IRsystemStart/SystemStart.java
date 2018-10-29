@@ -105,26 +105,25 @@ public class SystemStart {
  public static void main(String[] args) throws IOException {
 	 
 	 SystemStart starter = new SystemStart();
-	 System.out.println(starter.ROOT);
-//	 starter.preprocess();
-//	 starter.indexer();
-//	 starter.parse_query();
-//	 starter.retrieve_result();
+	 starter.preprocess();
+	 starter.indexer();
+	 starter.parse_query();
+	 starter.retrieve_result();
 	 
-//	 /**
-//	  * fetch query input from cmd line, retrieve result;
-//	  */
-//	 System.out.println("Now Testing arbitrary query.\n");
-//	 String query = JOptionPane.showInputDialog("请输入关键字进行搜索：");
-//	 List<QueryResult> result = starter.search_query(query);
-//	 
-//	 /**
-//	  * print ranked results
-//	  */
-//	 Iterator iter = result.iterator();
-//	 for(int i=0; i<10; i++) {
-//		 System.out.println(iter.next());
-//		 }
+	 /**
+	  * fetch query input from cmd line, retrieve result;
+	  */
+	 System.out.println("Now Testing arbitrary query.\n");
+	 String query = JOptionPane.showInputDialog("请输入关键字进行搜索：");
+	 List<QueryResult> result = starter.search_query(query);
+	 
+	 /**
+	  * print ranked results
+	  */
+	 Iterator iter = result.iterator();
+	 for(int i=0; i<10; i++) {
+		 System.out.println(iter.next());
+		 }
  }
 
 }
