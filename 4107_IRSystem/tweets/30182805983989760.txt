@@ -1,0 +1,1 @@
+ohmyshitparacelsus   echo $$date s86400 15000

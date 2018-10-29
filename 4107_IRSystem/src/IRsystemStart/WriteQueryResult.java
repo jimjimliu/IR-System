@@ -20,6 +20,7 @@ public class WriteQueryResult {
 	
 	/*
 	 * process each query, format of each line in this.queries is: "queryID, query";
+	 * retrieve result and write into file;
 	 */
 	public void writeToFile() throws IOException{
 		
@@ -72,6 +73,6 @@ public class WriteQueryResult {
 		out.close();
 		
 		System.out.println("Finish writing.");
-		System.out.println("The result file is in: "+this.file_path);
+		System.out.println("The result file is in: "+this.file_path+"\n");
 	}
 }

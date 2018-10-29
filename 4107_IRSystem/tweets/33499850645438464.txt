@@ -1,0 +1,1 @@
+annoying gap between video and controls in cs4 hi we are using the video component and picking a skin skinund 

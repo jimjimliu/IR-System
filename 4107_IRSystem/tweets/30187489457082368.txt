@@ -1,0 +1,1 @@
+pubsub with jquery custom events made my day the design became very loosely coupled and flexible thanks jeresig 

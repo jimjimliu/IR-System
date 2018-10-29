@@ -1,0 +1,1 @@
+local weather observered at 1020 et temp 718°f humidity 75 pct wind speed 92 mph from se

@@ -1,0 +1,1 @@
+setting up msysgit to auto run sshagent 

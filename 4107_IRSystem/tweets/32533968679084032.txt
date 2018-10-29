@@ -1,0 +1,1 @@
+how long before you will use the 15 version of jquery in production will you hold back for the first point release

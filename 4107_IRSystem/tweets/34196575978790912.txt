@@ -1,0 +1,1 @@
+ubuntu nvidia drivers dual screen colour calibration and  after a few tries i managed to install ubuntu 

@@ -1,0 +1,1 @@
+nist sp 800131a out of draft req reading for shops w legacy 3des implementations 

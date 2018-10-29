@@ -1,0 +1,1 @@
+bobbeauch hi do you know if denali fixes the scalar udf query plan issue of my many sql grumbles this is the top

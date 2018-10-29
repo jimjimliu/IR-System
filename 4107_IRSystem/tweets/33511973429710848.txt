@@ -1,0 +1,1 @@
+block proxy get access hi is there a way to block proxy get access using modrewrite rules i have read in sec 

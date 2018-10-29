@@ -1,0 +1,1 @@
+think i got pyzmq working on python32 had to fix some issues related to removal of the pycobject api

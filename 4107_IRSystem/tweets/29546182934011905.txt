@@ -1,0 +1,1 @@
+emc releases new vnx unified storage family merges the features of emc clariion and emc celerra 

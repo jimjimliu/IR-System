@@ -1,0 +1,1 @@
+monday 1000 am elko weather temp 46 high 46 low 35 hum 43 wind 256 mph w gust 33 wsw baro 30127 in trend falling slowly

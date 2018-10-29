@@ -19,5 +19,12 @@ public class QueryResult {
 	public String getScore() {
 		return this.score;
 	}
+	
+	public String toString() {
+		String id = this.tweetID;
+		String score = this.score;
+		String result = "Original Tweet file: "+id+"\t"+"Relevence: "+score;
+		return result;
+	}
 
 }

@@ -1,0 +1,1 @@
+just in case you wondered rhel prefers you to use resize2fs before you reduce the size of a logical volume or partition oh and fsck too

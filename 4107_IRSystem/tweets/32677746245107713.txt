@@ -1,0 +1,1 @@
+extracting event logs or other memory mapped files from memory dumps memory security 

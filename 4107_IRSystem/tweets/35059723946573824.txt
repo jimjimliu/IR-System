@@ -1,0 +1,1 @@
+stunde um stunde und ich finde nicht raus wieso der android service nach ondestroy nicht vernünftig endet 

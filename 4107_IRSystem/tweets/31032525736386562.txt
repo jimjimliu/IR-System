@@ -1,0 +1,1 @@
+prevent windows from crashing by sandboxing explorer windows so they won’t all crash at once 

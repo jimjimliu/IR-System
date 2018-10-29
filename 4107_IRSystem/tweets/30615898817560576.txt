@@ -1,0 +1,1 @@
+echofon is there a way to force all links in tweets to render in mobile format when selected instead of normal large screen format

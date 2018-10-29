@@ -1,0 +1,1 @@
+rt ksecurities 28111 set 98183 488 049 vol 2729612 mb top5 ptt 342 true 690 ivl 3900 pttar 3750 banpu 754 fb

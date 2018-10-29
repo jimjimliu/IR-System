@@ -1,0 +1,1 @@
+partielle integration hallo int  x2lnx  dx frac13 x3  lnx int  x2fr 

@@ -1,0 +1,1 @@
+ignore list now blocks messaging via the bank and global chat messages which are deleted or removed are updated globally on the fly 

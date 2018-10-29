@@ -1,0 +1,1 @@
+how to change wordpress version in wpadmin footer for security reasons you should hide or change the wordpress 

@@ -1,0 +1,1 @@
+windows vulnerable to zeroday xss attacks 

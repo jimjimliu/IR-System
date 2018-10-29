@@ -1,0 +1,1 @@
+pt weather data 1900  temp 43°c hum 91 pct  solar 0 wm2  uv 00  wind 129 kmh ne  rain last 24 hours 26 mm

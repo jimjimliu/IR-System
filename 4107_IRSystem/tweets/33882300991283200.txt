@@ -1,0 +1,1 @@
+we found the bug that was making squire crash everywhere it was a configuration file on our own server try run squire again its fixed

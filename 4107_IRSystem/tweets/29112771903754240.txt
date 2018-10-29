@@ -1,0 +1,1 @@
+xを閉じたら、confighal couldnt initialise context unknown error null とか xorg0log に残った。マウスとキーボードが効かない。むー。

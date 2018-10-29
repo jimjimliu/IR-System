@@ -1,0 +1,1 @@
+pt weather data 1300  temp 89°c hum 73 pct  solar 613 wm2  uv 24  wind 129 kmh nw  rain last 24 hours 06 mm

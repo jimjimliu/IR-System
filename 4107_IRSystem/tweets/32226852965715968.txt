@@ -1,0 +1,1 @@
+monday 400 pm joseph weather temp 27 high 29 low 22 hum 70 wind 88 mph nnw gust 21 nw baro 30253 in trend steady

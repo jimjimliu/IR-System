@@ -1,0 +1,1 @@
+this little program just saved me when after effects freezes it will kill ae and generate a saved file 

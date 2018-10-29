@@ -1,0 +1,1 @@
+use regular expressions for search and replace in netbeans 

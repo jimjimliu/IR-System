@@ -518,6 +518,11 @@ public class InvertedIndex {
    * return: list of the query result of format "tweetID, score";
    * added:2018-02-11: Junhan liu
    */
+  /**
+   * search an individual query message, and return less or equal to 1000 results
+   * @param query :String
+   * @return List<QueryResult>
+   */
   public List<QueryResult> processQuery(String query){
 	  
 	  List<QueryResult> result = new ArrayList<QueryResult>();

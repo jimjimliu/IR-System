@@ -1,0 +1,1 @@
+rt wmpoweruser camera settings still not retained in windows phone 7 update 

@@ -1,0 +1,1 @@
+python 3 から reduce が functools に移動したのか． the fate of reduce in python 3000  

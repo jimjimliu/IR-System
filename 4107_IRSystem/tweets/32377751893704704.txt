@@ -1,0 +1,1 @@
+pt weather data 1000  temp 36°c hum 85 pct  solar 392 wm2  uv 09  wind 111 kmh nnw  rain last 24 hours 00 mm

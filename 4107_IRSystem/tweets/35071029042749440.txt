@@ -1,0 +1,1 @@
+pymongo keep returning id in every record after quering how can i exclude this record 
