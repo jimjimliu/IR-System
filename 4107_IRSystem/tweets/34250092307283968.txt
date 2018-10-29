@@ -1,1 +1,0 @@
-pt weather data 1400  temp 191°c hum 40 pct  solar 601 wm2  uv 22  wind 32 kmh ese  rain last 24 hours 00 mm

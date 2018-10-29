@@ -1,1 +1,0 @@
-check out the brand new beta of speclog the agile requirements management tool from the creators of specflow 

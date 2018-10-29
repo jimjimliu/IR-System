@@ -1,1 +1,0 @@
-should at least have access to a brief outline of the crime and an easy feedback mechanism to report information about that specific crime

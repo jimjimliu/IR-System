@@ -1,1 +1,0 @@
-re activerecord dynamic attribute methods after looking deeper in activemodel i found that all dynamically ge 

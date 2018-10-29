@@ -1,1 +1,0 @@
-record snowstorms indicator of global warming 

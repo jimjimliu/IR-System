@@ -1,1 +1,0 @@
-rt mebbinet integrate enterprise macs with active directory 

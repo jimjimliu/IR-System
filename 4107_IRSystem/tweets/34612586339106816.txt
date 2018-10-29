@@ -1,1 +1,0 @@
-weather at 0900 et temp 64 f humidity 93 pct wind speed 01 mph from ne wind gust last hr 50 mph rain last hr 000

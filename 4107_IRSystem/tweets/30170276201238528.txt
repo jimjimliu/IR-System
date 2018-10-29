@@ -1,1 +1,0 @@
-show hidden files and folders option missing or does not work 

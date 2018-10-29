@@ -1,1 +1,0 @@
-figured out the bug with carbon need to turn off each option for notifications then turn off notifications

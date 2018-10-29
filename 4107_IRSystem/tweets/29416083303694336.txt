@@ -1,1 +1,0 @@
-amd to offer opengl ® 41 support on microsoft windows ® and linux platforms in latest driver release

@@ -1,1 +1,0 @@
-if you use labview and you havent checked out vipm yet you should read jps latest blog post 

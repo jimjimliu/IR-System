@@ -1,1 +1,0 @@
-it seems chromedeck notifications for facebook arent working has this been reported for the newest release

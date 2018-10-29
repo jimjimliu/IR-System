@@ -1,1 +1,0 @@
-wind 32 kmh nne barometer 102144 hpa langzaam stijgend temperature 19 °c rain today 02 mm humidity 93

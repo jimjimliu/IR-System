@@ -1,1 +1,0 @@
-current weather  900 pm  temp 353°f  heat index 353°f  humidity 79  wind 00 mph ne

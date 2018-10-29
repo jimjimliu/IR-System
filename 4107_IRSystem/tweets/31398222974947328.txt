@@ -1,1 +1,0 @@
-toyota uses msqdce to measure effectiveness however they are not measured in isolation but in priority and with a systems perspective

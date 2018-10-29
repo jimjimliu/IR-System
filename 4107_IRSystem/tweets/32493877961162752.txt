@@ -1,1 +1,0 @@
-if have noticed some disconnections we were updating for the imminente release of bbs update we will do some tests and release it tomorow

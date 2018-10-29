@@ -1,1 +1,0 @@
-spring security core install always hangs at the same place anyone know whats causing this grails 

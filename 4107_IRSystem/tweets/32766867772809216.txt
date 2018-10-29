@@ -1,1 +1,0 @@
-managed to fix my rtm and outlook sync issue this morning then 1 hour later rtm release up date to milksync for outlook 

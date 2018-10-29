@@ -1,1 +1,0 @@
-fairview tn 37062 weather  0500 am dry 253°f wind 00 mph ene rain 000 in humidity 78 wdisplay

@@ -1,1 +1,0 @@
-whats the difference between a mapreduce system and a mapreduce system with fault tolerance about 300k lines of code

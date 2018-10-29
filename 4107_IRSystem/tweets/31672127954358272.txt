@@ -1,1 +1,0 @@
-ssl  how it works ssl secure sockets layer is the most widely used and most standard security technology for estab 

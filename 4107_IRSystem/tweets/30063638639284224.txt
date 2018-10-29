@@ -1,1 +1,0 @@
-sodium consumption is currently more than two times higher than the recommended upper limit of 1500 mg daily 

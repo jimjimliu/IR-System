@@ -1,1 +1,0 @@
-infinity field crashes in 43 beta but its a ios bug will be fixed very soon by apple

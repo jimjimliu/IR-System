@@ -1,1 +1,0 @@
-cont 10000 injuries that require hospitalization

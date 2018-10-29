@@ -1,1 +1,0 @@
-this trick for explorer prevents windows from crashing anytime a browser window crashes 

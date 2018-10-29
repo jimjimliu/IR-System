@@ -1,1 +1,0 @@
-weather at 0855 et temp 64 f humidity 93 pct wind speed 00 mph from nne wind gust last hr 50 mph rain last hr 000

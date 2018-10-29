@@ -1,1 +1,0 @@
-gentoo sebastian pipping genkernel 3412 released summary i have just released genkernel 3412 to the testi 

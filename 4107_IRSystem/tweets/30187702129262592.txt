@@ -1,1 +1,0 @@
-copy and paste limited in 3rd party apps but global in native apps in wp7 

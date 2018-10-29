@@ -1,1 +1,0 @@
-db4o 712 stable version release notes  db4o version 712 is now a stable db4o version here are the release notes 

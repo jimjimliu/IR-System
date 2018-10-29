@@ -1,1 +1,0 @@
-hudson replaced by jackson
